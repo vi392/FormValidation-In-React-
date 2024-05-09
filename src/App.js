@@ -1,13 +1,14 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js'
-import Axios from './Practice/Axios';
+import Reactform from './project/Reactform';
+
 
 function App() {
   return (
     
     <>
-    <Axios/>
+    <Reactform/>
     
     </>
   );
